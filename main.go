@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Testing")
+	fmt.Println("Halos")
 	fmt.Println("Ini project")
 	fmt.Println("Checking")
 }
